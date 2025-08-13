@@ -9,6 +9,7 @@ int main(){
 	printf("Mackenzie - FCI\n");
 	printf("Algoritmos e ");
 	printf("Prog. II\n");
+	printf("Ciências da computação\n");
 	printf("Turma: 02P\n");
 	
 	system("pause");
